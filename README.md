@@ -1,6 +1,6 @@
 # Comment Action 💬
 
-[![package-check](https://github.com/GrantBirki/comment/actions/workflows/package-check.yml/badge.svg)](https://github.com/GrantBirki/comment/actions/workflows/package-check.yml) [![typecheck](https://github.com/GrantBirki/comment/actions/workflows/lint.yml/badge.svg)](https://github.com/GrantBirki/comment/actions/workflows/lint.yml)
+[![package-check](https://github.com/Sombrerita/comment/actions/workflows/package-check.yml/badge.svg)](https://github.com/Sombrerita/comment/actions/workflows/package-check.yml) [![typecheck](https://github.com/Sombrerita/comment/actions/workflows/lint.yml/badge.svg)](https://github.com/Sombrerita/comment/actions/workflows/lint.yml)
 
 GitHub Action to create, update, or add a reaction to any issue or pull request
 
@@ -259,7 +259,7 @@ The `vars` input can only be used with `file`; inline `body` values are not rend
 {% endfor %}
 ```
 
-> Source: [#11](https://github.com/GrantBirki/comment/issues/11)
+> Source: [#11](https://github.com/Sombrerita/comment/issues/11)
 
 ### Where to Find the ID of a Comment 🔍
 
@@ -336,3 +336,4 @@ This Action solves that problem by using the [nunjucks](https://github.com/mozil
 ## License
 
 [MIT](LICENSE)
+

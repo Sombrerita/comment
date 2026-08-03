@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GrantBirki/comment.git"
+    "url": "git+https://github.com/Sombrerita/comment.git"
   },
   "keywords": [],
   "author": "Grant Birkinbine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GrantBirki/comment/issues"
+    "url": "https://github.com/Sombrerita/comment/issues"
   },
-  "homepage": "https://github.com/GrantBirki/comment",
+  "homepage": "https://github.com/Sombrerita/comment",
   "dependencies": {
     "nunjucks": "^3.2.4"
   },
@@ -35,3 +35,4 @@
     "typescript": "^6.0.3"
   }
 }
+
